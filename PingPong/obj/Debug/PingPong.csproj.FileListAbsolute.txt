@@ -1,0 +1,15 @@
+C:\Users\kauan\Pictures\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\kauan\Pictures\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\kauan\Pictures\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\kauan\Pictures\PingPong\PingPong\bin\Debug\OpenTK.dll
+C:\Users\kauan\Pictures\PingPong\PingPong\bin\Debug\OpenTK.GLControl.dll
+C:\Users\kauan\Pictures\PingPong\PingPong\bin\Debug\OpenTK.pdb
+C:\Users\kauan\Pictures\PingPong\PingPong\bin\Debug\OpenTK.xml
+C:\Users\kauan\Pictures\PingPong\PingPong\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\kauan\Pictures\PingPong\PingPong\bin\Debug\OpenTK.GLControl.xml
+C:\Users\kauan\Pictures\PingPong\PingPong\obj\Debug\PingPong.csproj.AssemblyReference.cache
+C:\Users\kauan\Pictures\PingPong\PingPong\obj\Debug\PingPong.csproj.SuggestedBindingRedirects.cache
+C:\Users\kauan\Pictures\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Pictures\PingPong\PingPong\obj\Debug\PingPong.csproj.CopyComplete
+C:\Users\kauan\Pictures\PingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\kauan\Pictures\PingPong\PingPong\obj\Debug\PingPong.pdb
