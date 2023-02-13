@@ -11,7 +11,9 @@ basta importar o diretório e utilizar.
 Tecnologias utilizadas
 
 .NET
+
 Biblioteca OpenTK
+
 C#
 
 Autor
