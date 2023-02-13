@@ -5,9 +5,11 @@ O projeto consiste em um jogo Ping-Pong escrito na linguagem C#
 aonde é adicionado uma interface simples, simulando bem aquele antigo jogo
 de Ping-Pong da ATARI.
 
-Para rodar precisa .NET e a biblioteca Opentk instalada no .NET, basta importar o diretório e utilizar.
+Para rodar precisa .NET e a biblioteca Opentk instalada no .NET, 
+basta importar o diretório e utilizar.
 
 Tecnologias utilizadas
+
 .NET
 Biblioteca OpenTK
 C#
